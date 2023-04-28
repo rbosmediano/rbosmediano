@@ -1,4 +1,4 @@
-### Hi, i'm Robert! 👋
+### Hi, i'm Robert! 👋💻
 ![bannerLinkedIn_robertbosmediano](https://user-images.githubusercontent.com/129187257/235186763-0322e4a9-fc3f-4f05-b910-1275c80591e0.png)
 <!--
 **rbosmediano/rbosmediano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
