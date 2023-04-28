@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+``` js
+  const rbosmediano = {
+    country : 'Spain'
+    code: [Java, C#, C++, JavaScripts, HTML, CSS]
+  }
+```
