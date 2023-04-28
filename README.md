@@ -1,11 +1,12 @@
 ![bannerLinkedIn_robertbosmediano](https://user-images.githubusercontent.com/129187257/235186763-0322e4a9-fc3f-4f05-b910-1275c80591e0.png)
 
 <h1 align="center">Hello, I'm Robert👋💻</h1>
+<h3 align="center">A passionate backend developer from Barcelona, Spain</h3>
 
 ``` js
   const rbosmediano = {
     country : 'Spain'
-    code: [Java, C#, C++, JavaScripts, HTML, CSS]
+    code: [Java, C#, C++, JavaScript, HTML, CSS]
   }
 ```
 
