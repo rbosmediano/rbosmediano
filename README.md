@@ -10,9 +10,21 @@
   }
 ```
 
-<h3 align="center">Projects</h3>
+<h3 align="center">Projects</h3><hr width="50%" color="green" text-align="center">
 
-<h3 align="center">Social media</h3>
+- [Pokédex with PokeAPI](https://rbosmediano.github.io/poke_guide/)
+
+```
+HTML, CSS, JavaScript and PokeAPI (still working on it)
+```
+
+- [Geometric figures](https://rbosmediano.github.io/figuras_geo/)
+
+```
+HTML and CSS (need to add JavaScript)
+```
+
+<h3 align="center">Social media</h3><hr width="50%" align="center">
 <h4>You can find me :</h4>
 
 - [Twitter](https://twitter.com/rupert8399)
