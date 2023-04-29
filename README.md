@@ -25,6 +25,12 @@ HTML, CSS, JavaScript and PokeAPI (still working on it)
 HTML and CSS (need to add JavaScript)
 ```
 
+- [My Card](https://rbosmediano.github.io/mycard/)
+
+```
+HTML and CSS, personal Card showing simple info
+```
+
 <h2 align="center">Social media</h3>
 <h3>You can find me :</h4>
 
