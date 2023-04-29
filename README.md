@@ -10,7 +10,10 @@
   }
 ```
 
-You can find me :
+<h3 align="center">Projects</h3>
+
+<h3 align="center">Social media</h3>
+<h4>You can find me :</h4>
 - [Twitter](https://twitter.com/rupert8399)
 - [Instagram](https://instagram.com/rupert8399)
 - [GitHub](https://github.com/rbosmediano)
