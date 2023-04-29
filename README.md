@@ -11,7 +11,7 @@
   }
 ```
 
-<h3 align="center">Projects</h3>
+<h2 align="center">Projects</h3>
 
 - [Pokédex with PokeAPI](https://rbosmediano.github.io/poke_guide/)
 
@@ -25,8 +25,8 @@ HTML, CSS, JavaScript and PokeAPI (still working on it)
 HTML and CSS (need to add JavaScript)
 ```
 
-<h3 align="center">Social media</h3>
-<h4>You can find me :</h4>
+<h2 align="center">Social media</h3>
+<h3>You can find me :</h4>
 
 - [Twitter](https://twitter.com/rupert8399)
 - [Instagram](https://instagram.com/rupert8399)
