@@ -34,8 +34,6 @@ HTML and CSS, personal Card showing simple info
 <h2 align="center">Social media</h3>
 <h3>You can find me :</h4>
 
-- [Twitter](https://twitter.com/rupert8399)
-- [Instagram](https://instagram.com/rupert8399)
 - [GitHub](https://github.com/rbosmediano)
 - [LinkedIn](https://linkedin.com/in/rbosmediano)
 
