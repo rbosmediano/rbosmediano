@@ -7,7 +7,7 @@
   const rbosmediano = {
     country : 'Spain'
     code: [Java, C#, C++]
-    learning: [HTML, CSS, JavaScript]
+    learning: [HTML, CSS, JavaScript, Python]
   }
 ```
 
